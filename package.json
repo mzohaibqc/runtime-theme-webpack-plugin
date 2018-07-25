@@ -1,0 +1,17 @@
+{
+  "name": "runtime-theme-webpack-plugin",
+  "version": "1.0.0",
+  "description": "This package allows to generate a less file and eject into html so you can update your color related theme on the go in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "theming",
+    "less",
+    "runtime-theme"
+  ],
+  "author": "",
+  "license": "ISC"
+}
