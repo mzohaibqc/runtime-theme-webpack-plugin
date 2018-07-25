@@ -13,5 +13,8 @@
     "runtime-theme"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "css-runtime-theme": "^1.0.1"
+  }
 }
